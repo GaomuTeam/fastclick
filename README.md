@@ -1,5 +1,7 @@
 # FastClick #
 
+This repo is a copy of a https://github.com/ftlabs/fastclick. I change some code to suit our project.
+
 FastClick is a simple, easy-to-use library for eliminating the 300ms delay between a physical tap and the firing of a `click` event on mobile browsers. The aim is to make your application feel less laggy and more responsive while avoiding any interference with your current logic.
 
 FastClick is developed by [FT Labs](http://labs.ft.com/), part of the Financial Times.
